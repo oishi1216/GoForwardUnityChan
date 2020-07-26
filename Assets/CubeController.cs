@@ -9,8 +9,6 @@ public class CubeController : MonoBehaviour
     private float speed = -12;
     // 消滅位置
     private float deadLine = -10;
-    //AudioClipを取得
-    public AudioClip block;
     //AudioSourceを入れる箱
     AudioSource audioSource;
 
